@@ -1,0 +1,8 @@
+{
+  "name": "Bystrík a Čarovný Les",
+  "description": "Vzdelávacia 2D lesná plošinovka pre deti na tablet a Android zameraná výlučne na vybrané slová po B, násobilku 2 a 3 a čítanie s porozumením.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

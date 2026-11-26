@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="forestBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#14532D" />
+      <stop offset="100%" stop-color="#064E3B" />
+    </linearGradient>
+    <linearGradient id="goldGlow" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FDE047" />
+      <stop offset="100%" stop-color="#D97706" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#forestBg)" />
+  <circle cx="256" cy="256" r="176" fill="#166534" opacity="0.55" />
+  <!-- Stylized oak leaf -->
+  <path d="M256 96c-28 32-72 58-72 110 0 28 16 48 34 62-22 8-40 28-40 54 0 42 42 74 78 86 36-12 78-44 78-86 0-26-18-46-40-54 18-14 34-34 34-62 0-52-44-78-72-110z" fill="#22C55E" stroke="#FEF3C7" stroke-width="10" stroke-linejoin="round" />
+  <path d="M256 146v278" stroke="#FEF3C7" stroke-width="10" stroke-linecap="round" />
+  <!-- Golden B letter medallion -->
+  <circle cx="256" cy="264" r="76" fill="url(#goldGlow)" stroke="#FEFCE8" stroke-width="10" />
+  <text x="256" y="294" text-anchor="middle" font-family="sans-serif" font-weight="800" font-size="96" fill="#14532D">B</text>
+</svg>
